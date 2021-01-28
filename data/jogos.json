@@ -1,0 +1,120 @@
+{
+    "matematica": [{
+        "nome": "Nim",
+        "descricao": "Desafio de logica",
+        "imagem": "Nim.png",
+        "dados": "<a href='http://www2.ime.unicamp.br/~ma225/jogos/nim.html' target='_blank'><p>http://www2.ime.unicamp.br/~ma225/jogos/nim.html</p></a>"
+    },{
+        "nome": "Contig",
+        "descricao": "Formular operações matemáticas com três dados lançados e pontuar.",
+        "imagem": "contig.png",
+        "dados": "<a href='https://www.notion.so/Contig-47dbfe6b83fd49e9a5240a4b82cd1ecd' target='_blank'><p>https://www.notion.so/Contig-47dbfe6b83fd49e9a5240a4b82cd1ecd</p></a>"
+    },{
+        "nome": "Balança Lógica",
+        "descricao": "Indicar qual objeto é mais pesado quando colocado na gangorra.",
+        "imagem": "balança.png",
+        "dados": "<a href='https://rachacuca.com.br/jogos/balanca-logica/' target='_blank'><p>https://rachacuca.com.br/jogos/balanca-logica/</p></a>"
+    },{
+        "nome": "Dominó",
+        "descricao": "Dominó padrão. Mobile",
+        "imagem": "domino.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.tellmewow.senior.dominoes&hl=pt_BRtu' target='_blank'><p>https://play.google.com/store/apps/details?id=com.tellmewow.senior.dominoes&hl=pt_BRtu</p></a>"
+    }],
+
+    "portugues": [{
+        "nome": "CodyCross",
+        "descricao": "Jogo onde o objetivo é acertar as palavras que as perguntas fazem, as letras da palavra acertada vão para as outras plavras para facilitar.",
+        "imagem": "CodyCross.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.fanatee.cody' target='_blank'><p>https://play.google.com/store/apps/details?id=com.fanatee.cody</p></a>"
+    },{
+        "nome": "Surf de Palavra",
+        "descricao": "Um tema é dado e as palavras estão embaralhadas umas nas outras, conforme elas são encontradas a outras vão se arrumando para ficarem certas.",
+        "imagem": "surfpalavra.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.marulgames.wordsurf' target='_blank'><p>https://play.google.com/store/apps/details?id=com.marulgames.wordsurf</p></a>"
+    },{
+        "nome": "Caça palavras",
+        "descricao": "Caça palavras padrão.",
+        "imagem": "CaçaPalavras.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.tellmewow.senior.word.search' target='_blank'><p>https://play.google.com/store/apps/details?id=com.tellmewow.senior.word.search</p></a>"
+    },{
+        "nome": "Forca",
+        "descricao": "Jogo da forca padrão.",
+        "imagem": "forca.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.tellmewow.senior.hangman&hl=pt_BR' target='_blank'><p>https://play.google.com/store/apps/details?id=com.tellmewow.senior.hangman&hl=pt_BR</p></a>"
+    }],
+
+    "conhecimentos-gerais":[{
+        "nome": "Sandiego inc.",
+        "descricao": "O jogador deve seguir investigações pelo mundo procurando capturando criminosos enquanto tenta encontrar Carmen Sandiego.",
+        "imagem": "sandiego.png",
+        "dados": "<a href='https://mega.nz/file/INkgACoQ#XHO3N997r3UJD_6EKl4_rAgyhhJHRIciA3VECREFTho' target='_blank'><p>https://mega.nz/file/INkgACoQ#XHO3N997r3UJD_6EKl4_rAgyhhJHRIciA3VECREFTho</p></a>"
+    },{
+        "nome": "Perguntados",
+        "descricao": "Um jogo online onde o jogador deve responder perguntas sobre varias areas como artes, esportes e física.",
+        "imagem": "perguntados.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite&hl=pt_BR' target='_blank'><p>https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite&hl=pt_BR</p></a>"
+    },
+    {
+        "nome": "Google Doodle",
+        "descricao": "Uma coleção de  varios jogos educativos disponibilizados pelo google.",
+        "imagem": "Google.jpg",
+        "dados": "<a href='https://www.google.com/search?q=google+doodle&oq=google+doodle&aqs=chrome..69i57.3687j0j1&sourceid=chrome&ie=UTF-8' target='_blank'><p>https://www.google.com/search?q=google+doodle&oq=google+doodle&aqs=chrome..69i57.3687j0j1&sourceid=chrome&ie=UTF-8</p></a>"
+    }],
+
+    "memoria": [{
+        "nome": "Jogo da memória",
+        "descricao": "Para treinar a memória e concentração",
+        "imagem": "memoria1.png",
+        "dados": "<a href='https://rachacuca.com.br/passatempos/jogo-da-memoria/' target='_blank'><p>https://rachacuca.com.br/passatempos/jogo-da-memoria/</p></a>"
+    },
+    {
+        "nome": "Jogo da memória - curto prazo",
+        "descricao": "Jogo para memória de curto prazo",
+        "imagem": "memoria2.png",
+        "dados": "<a href='https://www.cognifit.com/br/public/games' target='_blank'><p>https://www.cognifit.com/br/public/games</p></a>"
+    },
+    {
+        "nome": "Jogo de memória - Geniol",
+        "descricao": "Para treinar a memória e concentração",
+        "imagem": "memoria3.png",
+        "dados": "<a href='https://www.geniol.com.br/passatempos/jogo-da-memoria/' target='_blank'><p>https://www.geniol.com.br/passatempos/jogo-da-memoria/</p></a>"
+    },
+    {
+        "nome": "Monument Valley",
+        "descricao": "Contém diferentes quebra cabeças. Mobile",
+        "imagem": "MValley.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley' target='_blank'><p>https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley</p></a>"
+    },
+    {
+        "nome": "Haja paciência",
+        "descricao": "Para exercitar a memória",
+        "imagem": "hpaciencia.png",
+        "dados": "<a href='https://www.hajapaciencia.com.br/jogos/jogo-da-memoria/' target='_blank'><p>https://www.hajapaciencia.com.br/jogos/jogo-da-memoria/</p></a>"
+    },
+    {
+        "nome": "Jogo da memória 2",
+        "descricao": "Jogo de memória para passar tempo",
+        "imagem": "memoria4.png",
+        "dados": "<a href='https://www.sol.eti.br/a/jogo_da_memoria/jogo_da_memoria_3.ph' target='_blank'><p>https://www.sol.eti.br/a/jogo_da_memoria/jogo_da_memoria_3.php</p></a>"
+    }],
+    
+    "diversao": [{
+        "nome": "Jogo da velha",
+        "descricao": "Jogo da velha padrão. Mobile",
+        "imagem": "jogovelha.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.pinkpointer.tictactoe&hl=pt_BR' target='_blank'><p>https://play.google.com/store/apps/details?id=com.pinkpointer.tictactoe&hl=pt_BR</p></a>"
+    },
+    {
+        "nome": "Kids Coloring Book",
+        "descricao": "Jogo de colorir. Mobile",
+        "imagem": "colorir.png",
+        "dados": "<a href='https://play.google.com/store/apps/details?id=com.tellmewow.senior.dominoes&hl=pt_BRtu' target='_blank'><p>https://play.google.com/store/apps/details?id=com.tellmewow.senior.dominoes&hl=pt_BRtu</p></a>"
+    },
+    {
+        "nome": "Coleção de jogos Windows 7",
+        "descricao": "Coleção com varios jogos como xadrez, damas, mahjong, freecell, solitaire e outros. Desktop",
+        "imagem": "chess.png",
+        "dados": "<a href='https://mega.nz/file/lFkUFQ6C#wXp8L_HVbIX6s7q2iCCBlnI1dtbSzjyOPEqWsz-5ONU' target='_blank'><p>https://mega.nz/file/lFkUFQ6C#wXp8L_HVbIX6s7q2iCCBlnI1dtbSzjyOPEqWsz-5ONU</p></a>"
+    }]
+    
+}

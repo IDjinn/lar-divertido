@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Site Lar Divertido</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <script type="text/javascript" src="./js/extractData.js"></script>
+    <script type="text/javascript" src="./js/fillPage.js"></script>
+    <script>
+        window.onload = async() => {
+            const data = await extractData();
+            const category = location.pathname.split("/").slice(-1)[0].replace('_', '-').replace('.html', '');
+            console.log(data)
+            console.log(category)
+            fillData('games', category, data, 'short');
+        }
+    </script>
+</head>
+
+<body>
+    <div class="conteudo">
+        <div class="menu">
+            <div class="menu-logo" onclick="window.open('index.html','_self')">
+                <img src="./imagens/logo.png" width="200" height="200" />
+            </div>
+            <div class="menu-item" onclick="window.open('index.html','_self')">HOME</div>
+            <div class="menu-item" onclick="window.open('matematica.html','_self')">MATEMÁTICA</div>
+            <div class="menu-item" onclick="window.open('portugues.html','_self')">PORTUGUÊS</div>
+            <div class="menu-item" onclick="window.open('diversao.html','_self')">DIVERSÃO</div>
+            <div class="menu-item" onclick="window.open('memoria.html','_self')">MEMÓRIA</div>
+            <div class="menu-item" onclick="window.open('conhecimentos_gerais.html','_self')">CONHECIMENTOS GERAIS</div>
+            <div class="menu-item" onclick="window.open('sobre.html','_self')">SOBRE</div>
+            <div class="menu-item" onclick="window.open('contato.html','_self')">CONTATO</div>
+        </div>
+        <div class="conteudo-dinamico">
+            <div class="texto-home">
+                <h1>PORTUGUÊS</h1>
+            </div>
+            <div id="games"></div>
+        </div>
+    </div>    
+</body>
+
+</html>
